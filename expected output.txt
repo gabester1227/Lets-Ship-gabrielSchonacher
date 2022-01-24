@@ -1,0 +1,8 @@
+MCO to FTW by ground with Company A
+FTW to DEN by ground with Company C
+Total Hours: 33.96
+Total Cost: $489.36
+DEN to FTW by air with Company B
+FTW to BWI by ground with Company C
+Total Hours: 26.05
+Total Cost: $2403.56
